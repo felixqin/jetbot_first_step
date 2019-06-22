@@ -2,6 +2,8 @@
 
 ## 硬件准备
 
+https://github.com/NVIDIA-AI-IOT/jetbot/wiki/hardware-setup
+
 ## 软件准备
 
 ### 系统安装
@@ -106,6 +108,6 @@ python stepper_test.py
 
 <待补充>
 
-## 参考资料
+## 更多参考
 
 - https://github.com/open-ai-robot/awesome-nvidia-jetbot.git
