@@ -1,9 +1,5 @@
 # Jetbot First Step
 
-## 参考资料
-
-https://github.com/open-ai-robot/awesome-nvidia-jetbot.git
-
 ## 硬件准备
 
 ## 软件准备
@@ -109,3 +105,7 @@ python stepper_test.py
 ### C++ 程序驱动电机
 
 <待补充>
+
+## 参考资料
+
+- https://github.com/open-ai-robot/awesome-nvidia-jetbot.git
